@@ -1,1 +1,1 @@
-# svg/warning-line-background.svg
+# warning-line-background.svg
